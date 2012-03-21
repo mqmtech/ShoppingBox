@@ -1,3 +1,6 @@
 [submodule "src/MQM/Bundle/PaginationBundle"]
 	path = src/MQM/Bundle/PaginationBundle
 	url = git@github.com:mqmtech/PaginationBundle.git
+[submodule "src/MQM/Bundle/SortBundle"]
+	path = src/MQM/Bundle/SortBundle
+	url = git@github.com:mqmtech/SortBundle.git
