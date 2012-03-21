@@ -1,0 +1,3 @@
+[submodule "src/MQM/Bundle/PaginationBundle"]
+	path = src/MQM/Bundle/PaginationBundle
+	url = git@github.com:mqmtech/PaginationBundle.git
