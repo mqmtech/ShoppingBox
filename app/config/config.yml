@@ -58,3 +58,14 @@ swiftmailer:
 jms_security_extra:
     secure_controllers:  true
     secure_all_services: false
+
+mqm_sort:
+#    factory:
+#      class: MQM\MyFactoryClass
+      
+mqm_pagination:
+    page_length: 6
+#    pagination: 
+#        class: MQM\MyPaginationClass
+#    page_factory:
+#        class: MQM\MyFactoryClass
