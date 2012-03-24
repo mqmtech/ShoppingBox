@@ -1,0 +1,6 @@
+## YAML Template.
+---
+acme_demo_mqm_test:
+    pattern:    /test
+    defaults:
+        _controller: acme.demo.controller.test:indexAction
